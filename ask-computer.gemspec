@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.executables = ["ask-computer"]
 
   spec.add_dependency "ask-core", ">= 0.11.4"
-  spec.add_dependency "ask-mcp", ">= 0.4.0"
+  spec.add_dependency "ask-mcp", ">= 0.5.0"
   spec.add_dependency "ask-tools", ">= 0.6.2"
 
   spec.add_development_dependency "minitest", "~> 5.25"
