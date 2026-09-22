@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.bindir = "exe"
   spec.executables = ["ask-computer"]
 
-  spec.add_dependency "ask-core", ">= 0.12.0"
+  spec.add_dependency "ask-core", ">= 0.12.1"
   spec.add_dependency "ask-mcp", ">= 0.5.0"
   spec.add_dependency "ask-tools", ">= 0.6.2"
 
